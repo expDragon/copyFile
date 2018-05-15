@@ -1,3 +1,13 @@
+/*
+ *
+ * Author: Jake Martin <ajanimember@gmail.com>
+ *
+ *copyFile is used the same way as the cp command in unix
+ *the main difference is that there are less options and it
+ *displays a progress bar to show you how much has been copied
+ *at any given point
+ */
+
 #include <cctype>
 #include <cstddef>
 #include <cerrno>
